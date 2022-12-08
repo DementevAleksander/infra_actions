@@ -1,5 +1,4 @@
 # .github/workflows/main.yml
-
 # Тут ваши задачи тестирования и сборки образа
 name: Django-app workflow
 
